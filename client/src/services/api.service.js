@@ -49,6 +49,51 @@ export const exchangeAuthTokens = async idToken => {
   });
 };
 
+
+export const getSolanaAuthMessage = async walletAddress => {
+  return new Promise(async (resolve, reject) => {
+    try {
+      const response = await API.post("/auth/solana/nonce", { walletAddress });
+      resolve(response.data);
+    } catch (error) {
+      reject(error);
+    }
+  });
+};
+
+export const verifySolanaAuth = async (walletAddress, signature) => {
+  return new Promise(async (resolve, reject) => {
+    try {
+      const response = await API.post("/auth/solana/verify", { walletAddress, signature });
+      resolve(response.data);
+    } catch (error) {
+      reject(error);
+    }
+  });
+};
+
+export const updateSolanaProfile = async ({ username, email }) => {
+  return new Promise(async (resolve, reject) => {
+    try {
+      const response = await API.put("/auth/solana/profile", { username, email });
+      resolve(response.data);
+    } catch (error) {
+      reject(error);
+    }
+  });
+};
+
+export const getSolanaWalletBalance = async () => {
+  return new Promise(async (resolve, reject) => {
+    try {
+      const response = await API.get("/auth/solana/balance");
+      resolve(response.data);
+    } catch (error) {
+      reject(error);
+    }
+  });
+};
+
 // Retrieve user data using a auth token
 export const getAuthUser = async () => {
   return new Promise(async (resolve, reject) => {
