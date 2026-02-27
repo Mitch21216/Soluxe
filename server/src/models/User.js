@@ -10,6 +10,18 @@ const UserSchema = new mongoose.Schema({
   username: String,
   password: String,
   avatar: String,
+  email: {
+    type: String,
+    default: "",
+  },
+  solanaAddress: {
+    type: String,
+    default: "",
+  },
+  hasCompletedSolanaProfile: {
+    type: Boolean,
+    default: false,
+  },
 
   // User's on-site rank
   rank: {
