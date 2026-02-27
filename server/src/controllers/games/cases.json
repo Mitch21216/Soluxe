@@ -1,0 +1,2319 @@
+[
+    {
+        "id": 1,
+        "slug": "Horizon",
+        "name": "Horizon",
+        "image": "https://images.crusade.gg/Value-Vault.png",
+        "price": 12.58,
+        "items": [
+            {
+                "name": "Guardian (MW)",
+                "type": "USP-S",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_elegant_light_large.416f607cc5faeb52be0f22e1b98450391f452ac2.png",
+                "price": 2.8,
+                "ticketsEnd": 18000,
+                "ticketsStart": 0,
+                "chance": "18%"
+            },
+            {
+                "name": "Neon Kimono (FT)",
+                "type": "Five-SeveN",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_fiveseven_hy_kimono_diamonds_light_large.c82060a31b7e4b17c73eb76fd87c09037a3eba42.png",
+                "price": 180.47,
+                "ticketsEnd": 21000,
+                "ticketsStart": 18001,
+                "chance": "3%"
+            },
+            {
+                "name": "Asiimov (BS)",
+                "type": "P90",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_p90-asiimov_light_large.0ca7f7fc032c98c5cc506ccde92b33e5836a8a88.png",
+                "price": 4.87,
+                "ticketsEnd": 36000,
+                "ticketsStart": 21001,
+                "chance": "15%"
+            },
+            {
+                "name": "Stone Cold (FN)",
+                "type": "Galil AR",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_gs_galil_nightwing_light_large.bc71fb0b9102f22348f39015b7de5affd60829e0.png",
+                "price": 5.5,
+                "ticketsEnd":51000,
+                "ticketsStart": 36001,
+                "chance": "15%"
+            },
+            {
+                "name": "Primal Saber (MW)",
+                "type": "UMP-45",
+                "color": "white",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump45_primalsaber_light_large.67bef91a43734d654516f65c4288711b257d2049.png",
+                "price": 3.24,
+                "ticketsEnd": 69000,
+                "ticketsStart": 51001,
+                "chance": "18%"
+            },
+            {
+                "name": "Chantico's Fire (FT)",
+                "type": "M4A1-S",
+                "color": "purple",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_soultaker_light_large.4939d69bd691d421ca9c7d6558b46088c8ac5317.png",
+                "price": 20.3,
+                "ticketsEnd": 82000,
+                "ticketsStart": 69001,
+                "chance": "13%"
+            } ,
+            {
+                "name": "Momentum (MW)",
+                "type": "AUG",
+                "color": "white",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_cu_aug_momentum_light_large.1f36037cec707a957785625f04b3740bb5286d16.png",
+                "price": 4.11,
+                "ticketsEnd": 100000,
+                "ticketsStart": 82001,
+                "chance": "18%"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "slug": "Prime",
+        "name": "Prime",
+        "image": "https://images.crusade.gg/Prime-Picks.png",
+        "price": 8.43,
+        "items": [
+            {
+                "name": "Graphite (FN)",
+                "type": "AWP",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_am_crumple_bravo_light_large.5f59de227d280f3c3b39fae7e49ac143338ca5b2.png",
+                "price": 125.13,
+                "ticketsEnd": 2000,
+                "ticketsStart": 0,
+                "chance": "2%"
+            },
+            {
+                "name": "Hyper Beast (FT)",
+                "type": "M4A1-S",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1_hyper_beast_light_large.31850937661935a062d5f6faf5a1f02fdb90b861.png",
+                "price": 17.66,
+                "ticketsEnd": 8000,
+                "ticketsStart": 2001,
+                "chance": "6%"
+            },
+            {
+                "name": "Frontside Misty (MW)",
+                "type": "AK-47",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_winter_sport_light_large.785a08aecd996dcffc6f38373fdc73697e601a6a.png",
+                "price": 18.56,
+                "ticketsEnd": 14000,
+                "ticketsStart": 8001,
+                "chance": "6%"
+            },
+            {
+                "name": "Supernova (FN)",
+                "type": "P250",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_bittersweet_light_large.83cd48968d79412e0cf2233b8e18602ff2790ad4.png",
+                "price": 1.12,
+                "ticketsEnd": 32000,
+                "ticketsStart": 14001,
+                "chance": "18%"
+            },
+            {
+                "name": "Primal Saber (FT)",
+                "type": "UMP-45",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump45_primalsaber_light_large.67bef91a43734d654516f65c4288711b257d2049.png",
+                "price": 1.72,
+                "ticketsEnd": 50000,
+                "ticketsStart": 32001,
+                "chance": "18%"
+            },
+            {
+                "name": "Water Elemental (MW)",
+                "type": "Glock-18",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_glock-liquescent_light_large.151e954ed4aef28ccc55d0ca4b43a7d9644f36ac.png",
+                "price": 5.34,
+                "ticketsEnd": 60000,
+                "ticketsStart": 50001,
+                "chance": "10%"
+            },
+            {
+                "name": "Hyper Beast (FT)",
+                "type": "Nova",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_nova_hyperbeast_light_large.ec64e1aa22dc78fa692a2269a99669842b91cc6f.png",
+                "price": 11.92,
+                "ticketsEnd": 68000,
+                "ticketsStart": 60001,
+                "chance": "8%"
+            },
+            {
+                "name": "Bloodsport (MW)",
+                "type": "SCAR-20",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_gs_scar20_bloodsport_light_large.dd99feccb31d2ec296bcd620abd885e6fe50d44e.png",
+                "price": 3.16,
+                "ticketsEnd": 78000,
+                "ticketsStart": 68001,
+                "chance": "10%"
+            },
+            {
+                "name": "Roll Cage (FT)",
+                "type": "FAMAS",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_gs_famas_rally_light_large.538baee44eb772de95029e4267ea9c41101bbc94.png",
+                "price": 2.03,
+                "ticketsEnd": 90000,
+                "ticketsStart": 78001,
+                "chance": "12%"
+            },
+            {
+                "name": "Fuel Injector (MW)",
+                "type": "Tec-9",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_gs_tec9_supercharged_light_large.e3ebc20f10eae02790fe95703b6099acca1d1809.png",
+                "price": 4.27,
+                "ticketsEnd": 100000,
+                "ticketsStart": 90001,
+                "chance": "10%"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "slug": "Stealth",
+        "name": "Stealth",
+        "image": "https://images.crusade.gg/stealth.png",
+        "price": 26.36,
+        "items": [
+            {
+                "name": "Smoke Out (MW)",
+                "type": "Moto Gloves",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/motorcycle_gloves_motorcycle_smoke_light_large.3381b82109056ba823c0f09cb60152438d5e2b91.png",
+                "price": 319.61,
+                "ticketsEnd": 2000,
+                "ticketsStart": 0,
+                "chance": "2%"
+            },
+            {
+                "name": "Black Laminate (FN)",
+                "type": "Shadow Daggers",
+                "color": "red",
+                "stattrack": "yes",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_push_gs_push_black_laminate_light_large.bf834d934ea9cb25f7264958307e390d567b1581.png",
+                "price": 138.94,
+                "ticketsEnd": 5000,
+                "ticketsStart": 2001,
+                "chance": "3%"
+            },
+            {
+                "name": "Dark Water (MW)",
+                "type": "M4A1-S",
+                "color": "pink",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_am_zebra_dark_light_large.f484368a478f5e02d1b9d5e2816354fe705503f3.png",
+                "price": 71.14,
+                "ticketsEnd": 10000,
+                "ticketsStart": 5001,
+                "chance": "5%"
+            },
+            {
+                "name": "Dark Water (FT)",
+                "type": "USP-S",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_am_zebra_dark_light_large.add709b2eb683853f9508ddf9c22503d7efb9925.png",
+                "price": 64.65,
+                "ticketsEnd": 15000,
+                "ticketsStart": 10001,
+                "chance": "5%"
+            },
+            {
+                "name": "Night (FN)",
+                "type": "Glock-18",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_so_night_light_large.e56ea92b4b8c1914a7f5f4e789483313845a0b4a.png",
+                "price": 32.79,
+                "ticketsEnd": 20000,
+                "ticketsStart": 15001,
+                "chance": "5%"
+            },
+            {
+                "name": "Wings (FN)",
+                "type": "AUG",
+                "color": "blue",
+                "stattrack": "yes",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_aug_hy_feathers_aug_light_large.e1419b52a3ddd4bed5328f438ea5dea07b0ba248.png",
+                "price": 19.18,
+                "ticketsEnd": 35000,
+                "ticketsStart": 20001,
+                "chance": "15%"
+            },
+            {
+                "name": "Conspiracy (FT)",
+                "type": "Desert Eagle",
+                "color": "white",
+                "stattrack": "yes",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_cu_deagle_aureus_light_large.7fa76057cb05f2cab829be448f120ae540715d0e.png",
+                "price": 10.81,
+                "ticketsEnd": 50000,
+                "ticketsStart": 35001,
+                "chance": "15%"
+            },
+            {
+                "name": "Slate (BS)",
+                "type": "AK47",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak47_professional_light_large.d09d623d0a725c63e8a3905f66bba41ba2ed59e8.png",
+                "price": 1.7,
+                "ticketsEnd": 70000,
+                "ticketsStart": 50001,
+                "chance": "20%"
+            },
+            {
+                "name": "Agent (WW)",
+                "type": "MP5-SD",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_gs_mp5_fbi_light_large.98c397d31feb201fd3d754a2e0b1d1508d75b2b9.png",
+                "price": 0.46,
+                "ticketsEnd": 100000,
+                "ticketsStart": 70001,
+                "chance": "30%"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "slug": "Nebula",
+        "name": "Nebula",
+        "image": "https://images.crusade.gg/nebula.png",
+        "price": 65.59,
+        "items": [
+            {
+                "name": "Doppler P3 (MW)",
+                "type": "Butterfly Knife",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://csgostash.com/storage/img/skin_variants/s857_phase3.png?id=8f8bffe731c5f862f56513e474976a70",
+                "price": 1849.79,
+                "ticketsEnd": 100,
+                "ticketsStart": 0,
+                "chance": "0.1%"
+            },
+            {
+                "name": "Doppler P4 (FN)",
+                "type": "Talon Knife",
+                "color": "red",
+                "stattrack": "yes",
+                "image": "https://csgostash.com/storage/img/skin_variants/s1086_phase4.png?id=e03997089d6072087277d50362328ee9",
+                "price": 987.48,
+                "ticketsEnd": 200,
+                "ticketsStart": 101,
+                "chance": "0.1%"
+            },
+            {
+                "name": "Doppler P4 (FN)",
+                "type": "M9 Bayonet",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://csgostash.com/storage/img/skin_variants/s542_phase4.png?id=0b51b1551374c681e66258720ebd332a",
+                "price": 1223.78,
+                "ticketsEnd": 300,
+                "ticketsStart": 201,
+                "chance": "0.1%"
+            },
+            {
+                "name": "Doppler P1 (FN)",
+                "type": "Stiletto Knife",
+                "color": "red",
+                "stattrack": "yes",
+                "image": "https://csgostash.com/storage/img/skin_variants/s1080_phase1.png?id=b510556b345f3b533e9061ec3b0483a2",
+                "price": 576.91,
+                "ticketsEnd": 400,
+                "ticketsStart": 301,
+                "chance": "0.1%"
+            },
+            {
+                "name": "Doppler P2 (FN)",
+                "type": "Bayonet",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://csgostash.com/storage/img/skin_variants/s536_phase2.png?id=0a2fdf6a6173b4c2fdd28e133df1ef91",
+                "price": 699.44,
+                "ticketsEnd": 500,
+                "ticketsStart": 401,
+                "chance": "0.1%"
+            },
+            {
+                "name": "Superconductor (BS)",
+                "type": "Sport Gloves",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/sporty_gloves_sporty_light_blue_light_large.ad70bb6b45be4dd9fefb19dea2819fba270b7022.png",
+                "price": 720.31,
+                "ticketsEnd": 1000,
+                "ticketsStart": 501,
+                "chance": "0.5%"
+            },
+            {
+                "name": "Lunar Weave (MW)",
+                "type": "Driver Gloves",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_black_light_large.1a38e5968c549d49e791cf55bc4f89232e19e26f.png",
+                "price": 316.95,
+                "ticketsEnd": 3000,
+                "ticketsStart": 1001,
+                "chance": "2%"
+            },
+            {
+                "name": "Gamma Doppler P4 (MW)",
+                "type": "Shadow Daggers",
+                "color": "pink",
+                "stattrack": "no",
+                "image": "https://csgostash.com/storage/img/skin_variants/s1494_phase4.png?id=9c54d29c53d61be19eeae81ce84d4c5e",
+                "price": 262.80,
+                "ticketsEnd": 6000,
+                "ticketsStart": 3001,
+                "chance": "3%"
+            },
+            {
+                "name": "Twilight Galaxy (FN)",
+                "type": "Glock-18",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_am_aqua_flecks_light_large.e7d41ce4dbf0cd29f1eb3daa5ce0bb753abd1903.png",
+                "price": 179.97,
+                "ticketsEnd": 10000,
+                "ticketsStart": 6001,
+                "chance": "4%"
+            },
+            {
+                "name": "Whiteout (FN)",
+                "type": "P250",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_so_whiteout_light_large.ffd6e614b63d3af24a04a9f7710b55210a7d0296.png",
+                "price": 127.96,
+                "ticketsEnd": 15000,
+                "ticketsStart": 10001,
+                "chance": "5%"
+            },
+            {
+                "name": "Desolate Space (FN)",
+                "type": "M4A4",
+                "color": "blue",
+                "stattrack": "yes",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_desolate_space_light_large.1fcbd5e124ae7c54cf12e6f76c431e6671a73845.png",
+                "price": 76.35,
+                "ticketsEnd": 27000,
+                "ticketsStart": 15001,
+                "chance": "12%"
+            },
+            {
+                "name": "Cobalt Disruption (FN)",
+                "type": "Desert Eagle",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_am_ddpatdense_peacock_light_large.a486db3160bcdcf6bc5a1d8179c450b02f620151.png",
+                "price": 70.25,
+                "ticketsEnd": 40000,
+                "ticketsStart": 27001,
+                "chance": "13%"
+            },
+            {
+                "name": "Sun in Leo (FN)",
+                "type": "AWP",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_hy_zodiac2_light_large.67da534322361569bd9637688b704b57232529fa.png",
+                "price": 25.31,
+                "ticketsEnd": 55000,
+                "ticketsStart": 40001,
+                "chance": "15%"
+            },
+            {
+                "name": "Space Race (FT)",
+                "type": "P2000",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_aa_spacerace_orange_light_large.611eae311e379d24b3014383c6270d45012099a0.png",
+                "price": 2.78,
+                "ticketsEnd": 75001,
+                "ticketsStart": 55001,
+                "chance": "20%"
+            },
+            {
+                "name": "Supernova (FT)",
+                "type": "P250",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_bittersweet_light_large.83cd48968d79412e0cf2233b8e18602ff2790ad4.png",
+                "price": 0.52,
+                "ticketsEnd": 100000,
+                "ticketsStart": 75001,
+                "chance": "25%"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "slug": "Miracle",
+        "name": "Miracle",
+        "image": "https://images.crusade.gg/miracle.png",
+        "price": 0.21,
+        "items": [
+            {
+                "name": "Fade (FN)",
+                "type": "Karambit",
+                "color": "gold",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_aa_fade_light_large.c91680d753adc2fcc5ed2e45daf815f6d4ab50b7.png",
+                "price": 2477.03,
+                "ticketsEnd": 1,
+                "ticketsStart": 0,
+                "chance": "0.001%"
+            },
+            {
+                "name": "Lore (FN)",
+                "type": "Karambit",
+                "color": "gold",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_cu_karam_lore_light_large.7090aea57b3a2abd82e09f0cdb840ac72f41df73.png",
+                "price": 1996.48,
+                "ticketsEnd": 2,
+                "ticketsStart": 1,
+                "chance": "0.001%"
+            },
+            {
+                "name": "Poseidon (FN)",
+                "type": "M4A4",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_poseidon_light_large.3db5688a5b47bd5720e7384abf13c45231a3cc03.png",
+                "price": 1081.5,
+                "ticketsEnd": 5,
+                "ticketsStart": 3,
+                "chance": "0.002%"
+            },
+            {
+                "name": "Fade (MW)",
+                "type": "Specialist Gloves",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/specialist_gloves_specialist_fade_light_large.93080c3004ae36aa520d87fd0ceb04463298453c.png",
+                "price": 879.1,
+                "ticketsEnd": 7,
+                "ticketsStart": 6,
+                "chance": "0.001%"
+            },
+            {
+                "name": "Lore (FT)",
+                "type": "M9 Bayonet",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_cu_m9_bay_lore_light_large.b4bfa26d570d440ee4c04244605a81031909da2f.png",
+                "price": 905.96,
+                "ticketsEnd": 10,
+                "ticketsStart": 8,
+                "chance": "0.002%"
+            },
+            {
+                "name": "Snow Leopard (MW)",
+                "type": "Driver Gloves",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_jaguar_white_light_large.232a00b09f3840949dd1390ccf64115c64577bc7.png",
+                "price": 832.27,
+                "ticketsEnd": 14,
+                "ticketsStart": 11,
+                "chance": "0.003%"
+            },
+            {
+                "name": "Blaze (FN)",
+                "type": "Desert Eagle",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_aa_flames_light_large.dd140c3b359c16ccd8e918ca6ad0b2628151fe1c.png",
+                "price": 555.7,
+                "ticketsEnd": 25,
+                "ticketsStart": 15,
+                "chance": "0.01%"
+            },
+            {
+                "name": "Army Mesh (BS)",
+                "type": "Tec-9",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_sp_mesh_army_light_large.b2404b6aa0c7e1584fe2691cfeba70d823aff562.png",
+                "price": 0.02,
+                "ticketsEnd": 100000,
+                "ticketsStart": 26,
+                "chance": "99.98%"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "slug": "Hell",
+        "name": "Hell",
+        "image": "https://images.crusade.gg/hell.png",
+        "price": 6.82,
+        "items": [
+            {
+                "name": "Kill Confirmed (FN)",
+                "type": "USP-S",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_kill_confirmed_light_large.a3a7b8f19c9fb931b18c1edd7dd21d44e2c3c2e0.png",
+                "price": 146.89,
+                "ticketsEnd": 1000,
+                "ticketsStart": 0,
+                "chance": "1%"
+            },
+            {
+                "name": "Crimson Web (MW)",
+                "type": "Desert Eagle",
+                "color": "pink",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_hy_webs_darker_light_large.7b9cb19bac52ebe7c49e3abdfb0c400ea252fef8.png",
+                "price": 20.57,
+                "ticketsEnd": 4000,
+                "ticketsStart": 1000,
+                "chance": "3%"
+            },
+            {
+                "name": "Redline (FT)",
+                "type": "AK-47",
+                "color": "pink",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_cobra_light_large.7494bfdf4855fd4e6a2dbd983ed0a243c80ef830.png",
+                "price": 15.26,
+                "ticketsEnd": 10000,
+                "ticketsStart": 4000,
+                "chance": "6%"
+            },
+            {
+                "name": "Dragonfire (FT)",
+                "type": "SSG 08",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_cu_ssg08_dragonfire_scope_light_large.482858c9d088454b42e53f02d927a8203c69dfc2.png",
+                "price": 9.66,
+                "ticketsEnd": 20000,
+                "ticketsStart": 10000,
+                "chance": "10%"
+            },
+            {
+                "name": "Obsidian (FN)",
+                "type": "P2000",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2000_obsidian_light_large.0a6ad31fe8f70401ffdd377c289309d0256282c6.png",
+                "price": 6.93,
+                "ticketsEnd": 35000,
+                "ticketsStart": 20000,
+                "chance": "15%"
+            },
+            {
+                "name": "Isaac (MW)",
+                "type": "Tec-9",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_cu_tec9_asiimov_light_large.9a4fb9bbf6f01209b8fd3effeda1eecfc1e5a9a3.png",
+                "price": 2.64,
+                "ticketsEnd": 50000,
+                "ticketsStart": 35000,
+                "chance": "15%"
+            },
+            {
+                "name": "Red Quartz (FT)",
+                "type": "Nova",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_am_crystallized_light_large.a5390c1d1d4b0a879d739917bc3d9f576feb01f2.png",
+                "price": 3.59,
+                "ticketsEnd": 70000,
+                "ticketsStart": 50000,
+                "chance": "20%"
+            },
+            {
+                "name": "Signal (BS)",
+                "type": "Galil AR",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_galilar_hy_galil_signal_red_light_large.d7c26f54fd72ec451094ea7791e921346e013197.png",
+                "price": 0.47,
+                "ticketsEnd": 85000,
+                "ticketsStart": 70000,
+                "chance": "15%"
+            },
+            {
+                "name": "Candy Apple (FN)",
+                "type": "Nova",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_so_red_light_large.f19886d0d01e730fc1e050416a6642488526a94c.png",
+                "price": 0.06,
+                "ticketsEnd": 100000,
+                "ticketsStart": 85000,
+                "chance": "15%"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "slug": "Fire & Ice",
+        "name": "Fire & Ice",
+        "image": "https://images.crusade.gg/fire_and_ice.png",
+        "price": 165.42,
+        "items": [
+            {
+                "name": "Autotronic (FT)",
+                "type": "M9 Bayonet",
+                "color": "gold",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_m9_bayonet_gs_m9_bay_autotronic_light_large.f81f68f78b0b40717602fc88f62b4d7af346c430.png",
+                "price": 918.83,
+                "ticketsEnd": 5000,
+                "ticketsStart": 0,
+                "chance": "5%"
+            },
+            {
+                "name": "Hot Rod (FN)",
+                "type": "M4A1-S",
+                "color": "gold",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_an_red_m4a1s_light_large.ec59e9b09e1e9f46af18dea65ee90e5bdfe9ebb1.png",
+                "price": 790.52,
+                "ticketsEnd": 10000,
+                "ticketsStart": 5001,
+                "chance": "5%"
+            },
+            {
+                "name": "Blood Pressure (MW)",
+                "type": "Moto Gloves",
+                "color": "pink",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/motorcycle_gloves_motorcycle_carbonfiber_red_light_large.39abf522353dcb56cfd4ef4b95123d510600bfe1.png",
+                "price": 333.18,
+                "ticketsEnd": 17500,
+                "ticketsStart": 10001,
+                "chance": "7,5%"
+            },
+            {
+                "name": "Slaughter (FT)",
+                "type": "Huntsman Knife",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_am_zebra_light_large.1296d76d34f1e5738524c808f365584a38aaf6bf.png",
+                "price": 235.96,
+                "ticketsEnd": 25000,
+                "ticketsStart": 17501,
+                "chance": "7,5%"
+            },
+            {
+                "name": "Polygon (FT)",
+                "type": "Moto Gloves",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/motorcycle_gloves_motorcycle_trigrid_blue_light_large.5e8f353a222f45406ab0b60e0d68d669953f0e20.png",
+                "price": 170.96,
+                "ticketsEnd": 35000,
+                "ticketsStart": 25001,
+                "chance": "10%"
+            },
+            {
+                "name": "Ice Coaled (MW)",
+                "type": "AK-47",
+                "color": "white",
+                "stattrack": "yes",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_cogthings_light_large.9b4678a70c315e5d60a203436b7a95cd4c5dcc89.png",
+                "price": 23.08,
+                "ticketsEnd": 50000,
+                "ticketsStart": 35001,
+                "chance": "15%"
+            },
+            {
+                "name": "Glacier Mesh (MW)",
+                "type": "P90",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_sp_mesh_glacier_light_large.742539900d5186f68defb5fac7e6a82771c302dd.png",
+                "price": 4.99,
+                "ticketsEnd": 75000,
+                "ticketsStart": 50001,
+                "chance": "25%"
+            },
+            {
+                "name": "Avalanche (MW)",
+                "type": "Tec-9",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_cu_tec9_avalanche_light_large.eb6726a24084bf5f3c8c8c70cd8ea37425a708e3.png",
+                "price": 1.68,
+                "ticketsEnd": 100000,
+                "ticketsStart": 75001,
+                "chance": "25%"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "slug": "Dazzle",
+        "name": "Dazzle",
+        "image": "https://images.crusade.gg/dazzle.png",
+        "price": 5.30,
+        "items": [
+            {
+                "name": "Neo-Noir (MW)",
+                "type": "M4A4",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_neo_noir_light_large.b03bd6902c1d714af0bd4795dce8e653dd12dcc9.png",
+                "price": 9.87,
+                "ticketsEnd": 3000,
+                "ticketsStart": 0,
+                "chance": "3%"
+            },
+            {
+                "name": "Llama Cannon (FT)",
+                "type": "R8 Revolver",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_gs_r8_llamacannon_light_large.ae4ce84764b4892a2ea2d3f9f0afc57023f7bdc8.png",
+                "price": 1.95,
+                "ticketsEnd": 93000,
+                "ticketsStart": 3001,
+                "chance": "90%"
+            },
+            {
+                "name": "Medusa (FT)",
+                "type": "AWP",
+                "color": "gold",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_medusa_awp_light_large.05c6f5c67a2fbf7d042637568ba2ab25e44bb08c.png",
+                "price": 2054.25,
+                "ticketsEnd": 93010,
+                "ticketsStart": 93001,
+                "chance": "0.01%"
+            },
+            {
+                "name": "Fire Serpent (MW)",
+                "type": "AK-47",
+                "color": "gold",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_fireserpent_ak47_bravo_light_large.9390e7fd091ea8a0434fd2143e0acf0d5d1bbc97.png",
+                "price": 761.92,
+                "ticketsEnd": 93200,
+                "ticketsStart": 93011,
+                "chance": "0.19%"
+            },
+            {
+                "name": "Mehndi (FT)",
+                "type": "P250",
+                "color": "purple",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_p250_refined_light_large.9da38bc561b6576555b1700e9e10ddbc52994c67.png",
+                "price": 10.51,
+                "ticketsEnd": 96200,
+                "ticketsStart": 93201,
+                "chance": "3%"
+            },
+            {
+                "name": "Hyper Beast (MW)",
+                "type": "Nova",
+                "color": "pink",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_nova_hyperbeast_light_large.ec64e1aa22dc78fa692a2269a99669842b91cc6f.png",
+                "price": 17.24,
+                "ticketsEnd": 99200,
+                "ticketsStart": 96201,
+                "chance": "3%"
+            } ,
+            {
+                "name": "Orion (FT)",
+                "type": "USP-S",
+                "color": "red",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_spitfire_light_large.883b877a8a57c9dd1128f2550ddd694d959f3150.png",
+                "price": 35.51,
+                "ticketsEnd": 100000,
+                "ticketsStart": 99201,
+                "chance": "0.8%"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "slug": "10% Gloves",
+        "name": "10% Gloves",
+        "image": "https://images.crusade.gg/10_gloves.png",
+        "price": "12.50",
+        "items": [
+            {
+                "name": "King Snake (FT)",
+                "type": "Driver Gloves",
+                "color": "gold",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_snakeskin_white_light_large.f6a54c7a3cf91ecbe0a712bb2126bfe77f86825e.png",
+                "price": 326.34,
+                "ticketsEnd": 100000,
+                "ticketsStart": 99990,
+                "chance": "0.01%"
+            },
+            {
+                "name": "Crimson Weave (FT)",
+                "type": "Driver Gloves",
+                "color": "gold",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_red_light_large.137455fd6486c53fef15a523f86e2928743de97e.png",
+                "price": 249.58,
+                "ticketsEnd": 99989,
+                "ticketsStart": 99970,
+                "chance": "0.02%"
+            },
+            {
+                "name": "Mogul (FT)",
+                "type": "Specialist Gloves",
+                "color": "red",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/specialist_gloves_specialist_winterhex_light_large.2b5d5ec0b5388beef874b932a8f9c053360ae7dc.png",
+                "price": 159.89,
+                "ticketsEnd": 99969,
+                "ticketsStart": 99950,
+                "chance": "0.02%"
+            },
+            {
+                "name": "Eclipse (FT)",
+                "type": "Moto Gloves",
+                "color": "red",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/motorcycle_gloves_motorcycle_basic_black_light_large.9a849bc145404258c8961449980d893ba9eff27e.png",
+                "price": 126.52,
+                "ticketsEnd": 99949,
+                "ticketsStart": 98950,
+                "chance": "1%"
+            },
+            {
+                "name": "Bronze Morph (FT)",
+                "type": "Sport Gloves",
+                "color": "red",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/sporty_gloves_sporty_poison_frog_red_green_light_large.12893b922fb8f2dc1d1eecf01bf628642874e937.png",
+                "price": 122.35,
+                "ticketsEnd": 98949,
+                "ticketsStart": 98900,
+                "chance": "0.05%"
+            },
+            {
+                "name": "Charred (FT)",
+                "type": "Bloodhound Gloves",
+                "color": "red",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/studded_bloodhound_gloves_bloodhound_black_silver_light_large.36a1f3b18c240487ae6aba735429754c706aca70.png",
+                "price": 91.15,
+                "ticketsEnd": 98899,
+                "ticketsStart": 98100,
+                "chance": "0.8%"
+            },
+            {
+                "name": "POW! (BS)",
+                "type": "Moto Gloves",
+                "color": "red",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/motorcycle_gloves_motorcycle_choco_boom_light_large.37abd7be1296fa17815f7b41a7d063e45b343cab.png",
+                "price": 85.51,
+                "ticketsEnd": 98099,
+                "ticketsStart": 98050,
+                "chance": "0.05%"
+            },
+            {
+                "name": "Case Hardened (FT)",
+                "type": "Hydra Gloves",
+                "color": "red",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/studded_hydra_gloves_bloodhound_hydra_case_hardened_light_large.611be49c3a2f37057a7740c8ad74cc818f688b3d.png",
+                "price": 88.98,
+                "ticketsEnd": 98049,
+                "ticketsStart": 94460,
+                "chance": "3.59%"
+            },
+            {
+                "name": "Convoy (FT)",
+                "type": "Driver Gloves",
+                "color": "red",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_military_light_large.8da6c198b3bfb8a70f63bbd99a02ce8fc09c9a95.png",
+                "price": 60.97,
+                "ticketsEnd": 94459,
+                "ticketsStart": 90000,
+                "chance": "4.46%"
+            },
+            {
+                "name": "Urban Dashed (MW)",
+                "type": "PP-Bizon",
+                "color": "white",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_sp_tape_short_urban_light_large.141f3b1f24bc6c964a78ca58b38c01ad773fbc12.png",
+                "price": 0.01,
+                "ticketsEnd": 89999,
+                "ticketsStart": 0,
+                "chance": "90%"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "slug": "Asiimov",
+        "name": "Asiimov",
+        "image": "https://images.crusade.gg/Assimov1.png",
+        "price": 48.88,
+        "items": [
+            {
+                "name": "Asiimov (MW)",
+                "type": "AK-47",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_asiimov_light_large.665fc3b83c8046398787a57d2ef7a9d938244820.png",
+                "price": 38.51,
+                "ticketsEnd": 20000,
+                "ticketsStart": 0,
+                "chance": "20%"
+            },
+            {
+                "name": "Asiimov (FT)",
+                "type": "AWP",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_asimov_light_large.32d9045f8a2bcd13ca18390cc9fd82026e7195ab.png",
+                "price": 105.67,
+                "ticketsEnd": 35000,
+                "ticketsStart": 20001,
+                "chance": "15%"
+            },
+            {
+                "name": "Asiimov (FT)",
+                "type": "M4A4",
+                "color": "pink",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4_asimov_light_large.af03179f3d43ff55b0c3d114c537eac77abdb6cf.png",
+                "price": 123.32,
+                "ticketsEnd": 50000,
+                "ticketsStart": 35001,
+                "chance": "15%"
+            },
+            {
+                "name": "Asiimov (FT)",
+                "type": "P250",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_p250_asiimov_light_large.7ccf465f7dc55d2d960465d404c10cbc8c442cee.png",
+                "price": 2.87,
+                "ticketsEnd": 75000,
+                "ticketsStart": 50001,
+                "chance": "25%"
+            },
+            {
+                "name": "Asiimov (FT)",
+                "type": "P90",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_p90-asiimov_light_large.0ca7f7fc032c98c5cc506ccde92b33e5836a8a88.png",
+                "price": 6.67,
+                "ticketsEnd": 100000,
+                "ticketsStart": 75001,
+                "chance": "25%"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "slug": "Infinity",
+        "name": "Infinity",
+        "image": "https://images.crusade.gg/Affordable-Arsenal.png",
+        "price": 2.29,
+        "items": [
+            {
+                "name": "Bulldozer (FT)",
+                "type": "MP9",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_so_yellow_light_large.dfa50bdf02bccb9002d09c891d41ba65b1ce2d9c.png",
+                "price": 55.54,
+                "ticketsEnd": 1000,
+                "ticketsStart": 0,
+                "chance": "1%"
+            },
+            {
+                "name": "Bone Pile (FN)",
+                "type": "UMP-45",
+                "color": "red",
+                "stattrack": "yes",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_sp_skull_diagram_bravo_light_large.f3bf563f6e0274f55377e4fe0422905586a3d19b.png",
+                "price": 29.75,
+                "ticketsEnd": 2500,
+                "ticketsStart": 1001,
+                "chance": "1,5%"
+            },
+            {
+                "name": "Asiimov (MW)",
+                "type": "P90",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_cu_p90-asiimov_light_large.0ca7f7fc032c98c5cc506ccde92b33e5836a8a88.png",
+                "price": 13.38,
+                "ticketsEnd": 6000,
+                "ticketsStart": 2501,
+                "chance": "3,5%"
+            },
+            {
+                "name": "High Roller (FN)",
+                "type": "PP-Bizon",
+                "color": "pink",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_cu_bizon_all_in_light_large.d31ae97fe448b550cfe06d617daa3575c77e8c2a.png",
+                "price": 9.14,
+                "ticketsEnd": 10000,
+                "ticketsStart": 6001,
+                "chance": "4%"
+            },
+            {
+                "name": "Carnivore (FN)",
+                "type": "MAC-10",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_aq_mac_10_alien_camo_light_large.10568510ec37ec8515546e5ac03455391bb9ec2d.png",
+                "price": 0.28,
+                "ticketsEnd": 100000,
+                "ticketsStart": 10001,
+                "chance": "90%"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "slug": "Vortex",
+        "name": "Vortex",
+        "image": "https://images.crusade.gg/vortex.png",
+        "price": 4.19,
+        "items": [
+            {
+                "name": "Safari Mesh (FT)",
+                "type": "AWP",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_sp_mesh_tan_light_large.3608cbeb9bb163bfd2becb4ebcce2576b9ca78d9.png",
+                "price": 0.03,
+                "ticketsEnd": 8000,
+                "ticketsStart": 0,
+                "chance": "8%"
+            },
+            {
+                "name": "Basilisk (MW)",
+                "type": "M4A1-S",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_aq_m4a1s_basilisk_light_large.18370d6557500376e137c7f6b07c7ed46c9dccf2.png",
+                "price": 5.92,
+                "ticketsEnd": 18000,
+                "ticketsStart": 8001,
+                "chance": "10%"
+            },
+            {
+                "name": "Cartel (FT)",
+                "type": "AK-47",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_aq_ak47_cartel_light_large.2e7be9f4c7bda304f2a7c374260d95affca93f0b.png",
+                "price": 6.91,
+                "ticketsEnd": 28000,
+                "ticketsStart": 18001,
+                "chance": "10%"
+            },
+            {
+                "name": "Delusion (FN)",
+                "type": "UMP-45",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_sp_ump45_d-visions_light_large.33ae7e9e8bf24ee97f4f3d3ee113e51782a756fa.png",
+                "price": 1.37,
+                "ticketsEnd": 36000,
+                "ticketsStart": 28001,
+                "chance": "8%"
+            },
+            {
+                "name": "Granite Marbleized (MW)",
+                "type": "P2000",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_hy_granite_light_large.30d6a68c522ae5dd0cf7a67e07eccb66cf50b04c.png",
+                "price": 0.05,
+                "ticketsEnd": 44000,
+                "ticketsStart": 36001,
+                "chance": "8%"
+            },
+            {
+                "name": "Candy Apple (FT)",
+                "type": "Nova",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_so_red_light_large.f19886d0d01e730fc1e050416a6642488526a94c.png",
+                "price": 0.04,
+                "ticketsEnd": 52000,
+                "ticketsStart": 44001,
+                "chance": "8%"
+            },
+            {
+                "name": "Desert-Strike (MW)",
+                "type": "M4A4",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_titanstorm_light_large.a161ff6ea23af2d9bbdc0a757f5163fa1ad87a30.png",
+                "price": 4.02,
+                "ticketsEnd": 62000,
+                "ticketsStart": 52001,
+                "chance": "10%"
+            },
+            {
+                "name": "Neon Rider (FN)",
+                "type": "MAC-10",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_neonrider_light_large.4ba82cf2ba2d9fdc694d707b563421bbcc20b174.png",
+                "price": 8.48,
+                "ticketsEnd": 82000,
+                "ticketsStart": 62001,
+                "chance": "20%"
+            },
+            {
+                "name": "Isaac (FT)",
+                "type": "Tec-9",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_cu_tec9_asiimov_light_large.9a4fb9bbf6f01209b8fd3effeda1eecfc1e5a9a3.png",
+                "price": 2.25,
+                "ticketsEnd": 92000,
+                "ticketsStart": 82001,
+                "chance": "10%"
+            },
+            {
+                "name": "Franklin (MW)",
+                "type": "P250",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_money_light_large.a8632edd5846b8c9de09c711ada47f7decc739b7.png",
+                "price": 1.03,
+                "ticketsEnd": 100000,
+                "ticketsStart": 92001,
+                "chance": "8%"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "slug": "Bounty",
+        "name": "Bounty",
+        "image": "https://images.crusade.gg/Budget-King.png",
+        "price": 1.58,
+        "items": [
+            {
+                "name": "Fade (FT)",
+                "type": "R8 Revolver",
+                "color": "red",
+                "stattrack": "yes",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_aa_fade_revolver_light_large.af77aee9f82936e7510b89e7f0c1bbf6bfaaff45.png",
+                "price": 54.15,
+                "ticketsEnd": 1000,
+                "ticketsStart": 0,
+                "chance": "1%"
+            },
+            {
+                "name": "Rat Rod (FT)",
+                "type": "AK-47",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_gs_ak47_nibbler_light_large.1c402d395b628aa5667239eec44640d7f603d754.png",
+                "price": 2.64,
+                "ticketsEnd": 20000,
+                "ticketsStart": 1001,
+                "chance": "19%"
+            },
+            {
+                "name": "Griffin (FT)",
+                "type": "M4A4",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_griffin_light_large.255bd83fd343ea8e8d84a1d5c94959d0b26cafae.png",
+                "price": 1.55,
+                "ticketsEnd": 40000,
+                "ticketsStart": 20001,
+                "chance": "20%"
+            },
+            {
+                "name": "Capillary (FT)",
+                "type": "AWP",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_cu_awp_vein_light_large.8665dc4b4231298e9bbcab7aad3abbbf22e3edd8.png",
+                "price": 0.13,
+                "ticketsEnd": 100000,
+                "ticketsStart": 40001,
+                "chance": "60%"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "slug": "Igloo",
+        "name": "Igloo",
+        "image": "https://images.crusade.gg/igloo.png",
+        "price": 42.81,
+        "items": [
+            {
+                "name": "Snow Leopard (MW)",
+                "type": "Driver Gloves",
+                "color": "gold",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_jaguar_white_light_large.232a00b09f3840949dd1390ccf64115c64577bc7.png",
+                "price": 824.23,
+                "ticketsEnd": 10,
+                "ticketsStart": 0,
+                "chance": "0,01%"
+            },
+            {
+                "name": "Blue Steel (FN)",
+                "type": "Nomad Knife",
+                "color": "gold",
+                "stattrack": "yes",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_outdoor_aq_blued_light_large.f862df3f6428b2263abc07e569466df251ddbd67.png",
+                "price": 441.4,
+                "ticketsEnd": 110,
+                "ticketsStart": 10,
+                "chance": "0.1%"
+            },
+            {
+                "name": "Cool Mint (FT)",
+                "type": "Moto Gloves",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/motorcycle_gloves_motorcycle_triangle_blue_light_large.0fd19089bab85024b9458d7865e215d7d017fd84.png",
+                "price": 360.62,
+                "ticketsEnd": 2110,
+                "ticketsStart": 110,
+                "chance": "2%"
+            },
+            {
+                "name": "Vanilla",
+                "type": "Paracord Knife",
+                "color": "pink",
+                "stattrack": "yes",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/weapons/base_weapons/weapon_knife_cord.073b5fa991a256ec2264b1c1c581401631eb51cb.png",
+                "price": 192.25,
+                "ticketsEnd": 5110,
+                "ticketsStart": 2110,
+                "chance": "3%"
+            },
+            {
+                "name": "Glacier Mesh (FN)",
+                "type": "P90",
+                "color": "purple",
+                "souvenir": "yes",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_sp_mesh_glacier_light_large.742539900d5186f68defb5fac7e6a82771c302dd.png",
+                "price": 92.26,
+                "ticketsEnd": 10110,
+                "ticketsStart": 5110,
+                "chance": "5%"
+            },
+            {
+                "name": "Whiteout (FN)",
+                "type": "P250",
+                "color": "pink",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_so_whiteout_light_large.ffd6e614b63d3af24a04a9f7710b55210a7d0296.png",
+                "price": 138.53,
+                "ticketsEnd": 15110,
+                "ticketsStart": 10110,
+                "chance": "5%"
+            },
+            {
+                "name": "Frontside Misty (FN)",
+                "type": "AK-47",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_winter_sport_light_large.785a08aecd996dcffc6f38373fdc73697e601a6a.png",
+                "price": 54.13,
+                "ticketsEnd": 25110,
+                "ticketsStart": 15110,
+                "chance": "10%"
+            },
+            {
+                "name": "Whiteout (BS)",
+                "type": "P250",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_so_whiteout_light_large.ffd6e614b63d3af24a04a9f7710b55210a7d0296.png",
+                "price": 35.39,
+                "ticketsEnd": 35110,
+                "ticketsStart": 25110,
+                "chance": "10%"
+            },
+            {
+                "name": "Whiteout (FT)",
+                "type": "MP7",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_so_whiteout_light_large.1f27273c189c19b42567bdd44ffc3e5be70ea3a4.png",
+                "price": 8.93,
+                "ticketsEnd": 50110,
+                "ticketsStart": 35110,
+                "chance": "15%"
+            },
+            {
+                "name": "Whiteout (WW)",
+                "type": "USP-S",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_so_whiteout_riptide_light_large.87d3b82c83ef28ff06955915907d062376be31ac.png",
+                "price": 23.39,
+                "ticketsEnd": 65110,
+                "ticketsStart": 50110,
+                "chance": "15%"
+            },
+            {
+                "name": "Blue Steel (FN)",
+                "type": "XM1014",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_xm1014_aq_blued_light_large.322850eb06df5352f302b6d4dffb1d2472dac596.png",
+                "price": 0.22,
+                "ticketsEnd": 100000,
+                "ticketsStart": 65110,
+                "chance": "34.89%"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "slug": "Crimson",
+        "name": "Crimson",
+        "image": "https://images.crusade.gg/Nova.png",
+        "price": 35.65,
+        "items": [
+            {
+                "name": "Crimson Web (BS)",
+                "type": "Falchion Knife",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_falchion_hy_webs_light_large.9c355c7819b8fd993b543bceec976e798e6e8633.png",
+                "price": 125.97,
+                "ticketsEnd": 3000,
+                "ticketsStart": 0,
+                "chance": "3%"
+            },
+            {
+                "name": "Colony (MW)",
+                "type": "Dual Berettas",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_so_space_marine_light_large.101c6b29315d37db050a4c7817a4c11517baa167.png",
+                "price": 0.01,
+                "ticketsEnd": 53000,
+                "ticketsStart": 3001,
+                "chance": "50%"
+            },
+            {
+                "name": "Blue Steel (MW)",
+                "type": "Bowie Knife",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_survival_bowie_aq_blued_light_large.d24c03eb5e7feb65ba397f5aaca5f1304acefc62.png",
+                "price": 138.83,
+                "ticketsEnd": 58000,
+                "ticketsStart": 53001,
+                "chance": "5%"
+            },
+            {
+                "name": "Tiger Tooth (FN)",
+                "type": "Karambit",
+                "color": "gold",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_an_tiger_orange_light_large.cd5a9d7da1f15b5360e825b7d8261210ce717643.png",
+                "price": 1042.49,
+                "ticketsEnd": 58500,
+                "ticketsStart": 58001,
+                "chance": "0.5%"
+            },
+            {
+                "name": "Lore (FN)",
+                "type": "Flip Knife",
+                "color": "red ",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_flip_cu_flip_lore_light_large.df03b3186c105676470d2ac73e4bea375fedbf77.png",
+                "price": 444.84,
+                "ticketsEnd": 59500,
+                "ticketsStart": 58501,
+                "chance": "1%"
+            },
+            {
+                "name": "Naga (FT)",
+                "type": "Desert Eagle",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_aq_deagle_naga_light_large.b410ad835b1894a448676ae0590586298af2cb33.png",
+                "price": 1,
+                "ticketsEnd": 99500,
+                "ticketsStart": 59501,
+                "chance": "40%"
+            },
+            {
+                "name": "Fade (FN)",
+                "type": "Karambit",
+                "color": "gold",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_karambit_aa_fade_light_large.c91680d753adc2fcc5ed2e45daf815f6d4ab50b7.png",
+                "price": 2323.98,
+                "ticketsEnd": 100000,
+                "ticketsStart": 99501,
+                "chance": "0.5%"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "slug": "Lux",
+        "name": "Lux",
+        "image": "https://images.crusade.gg/Lux.png",
+        "price": 12.19,
+        "items": [
+            {
+                "name": "Freehand (FN)",
+                "type": "Huntsman Knife",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_knife_tactical_am_marked_up_90_light_large.cd9f689ef3a0d38cd51dd719a3c60e30583826f7.png",
+                "price": 150.85,
+                "ticketsEnd": 3500,
+                "ticketsStart": 0,
+                "chance": "3,5%"
+            },
+            {
+                "name": "Redline (FT)",
+                "type": "AK-47",
+                "color": "blue",
+                "stattrack": "yes",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_cobra_light_large.7494bfdf4855fd4e6a2dbd983ed0a243c80ef830.png",
+                "price": 12.58,
+                "ticketsEnd": 10000,
+                "ticketsStart": 3501,
+                "chance": "6,5%"
+            },
+            {
+                "name": "Hyper Beast (FT)",
+                "type": "M4A1-S",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1_hyper_beast_light_large.31850937661935a062d5f6faf5a1f02fdb90b861.png",
+                "price": 17.66,
+                "ticketsEnd": 17000,
+                "ticketsStart": 10001,
+                "chance": "7%"
+            },
+            {
+                "name": "Fuel Injector (MW)",
+                "type": "Tec-9",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_gs_tec9_supercharged_light_large.e3ebc20f10eae02790fe95703b6099acca1d1809.png",
+                "price": 4.27,
+                "ticketsEnd": 50000,
+                "ticketsStart": 17001,
+                "chance": "33%"
+            },
+            {
+                "name": "Yellow Jacket (MW)",
+                "type": "CZ75-Auto",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_cu_cz75a_chastizer_light_large.d3234c712c3c068adbbfd5718c468c778f2351dd.png",
+                "price": 5.79,
+                "ticketsEnd": 75000,
+                "ticketsStart": 50001,
+                "chance": "25%"
+            },
+            {
+                "name": "Handgun (FN)",
+                "type": "P2000",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_aq_p2000_boom_light_large.39f01b0b86b795bea56300432fecfbf93415ee58.png",
+                "price": 3.54,
+                "ticketsEnd": 100000,
+                "ticketsStart": 75001,
+                "chance": "25%"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "slug": "Lotus",
+        "name": "Lotus",
+        "image": "https://images.crusade.gg/Lotus.png",
+        "price": 3.11,
+        "items": [
+            {
+                "name": "Vulcan (BS)",
+                "type": "AK-47",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_rubber_light_large.5836c38d3037a5a1f90ffdc8c9d0b94367ca8efd.png",
+                "price": 69.52,
+                "ticketsEnd": 1000,
+                "ticketsStart": 0,
+                "chance": "1%"
+            },
+            {
+                "name": "Nightmare (WW)",
+                "type": "M4A1-S",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_nightmare_light_large.68e892eb4dedad809205a5fd06f175297d1be1cb.png",
+                "price": 6.52,
+                "ticketsEnd": 10000,
+                "ticketsStart": 1001,
+                "chance": "9%"
+            },
+            {
+                "name": "Hydra (MW)",
+                "type": "MP9",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_cu_mp9_hydra_light_large.b7763a811b3bc9d19d04502fba0edc6cbe355766.png",
+                "price": 6.55,
+                "ticketsEnd": 20000,
+                "ticketsStart": 10001,
+                "chance": "10%"
+            },
+            {
+                "name": "Torque (FN)",
+                "type": "USP-S",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_progressiv_light_large.91cde781cd0c8502bbbb66f37cc7f1baf2a10c05.png",
+                "price": 1.38,
+                "ticketsEnd": 45000,
+                "ticketsStart": 20001,
+                "chance": "25%"
+            },
+            {
+                "name": "Button Masher (FN)",
+                "type": "MAC-10",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_portable_light_large.d4e97127a92ecba12884e5af083aa84685486b39.png",
+                "price": 1.02,
+                "ticketsEnd": 70000,
+                "ticketsStart": 45001,
+                "chance": "25%"
+            },
+            {
+                "name": "Sand Dune (WW)",
+                "type": "MAG-7",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_so_sand_light_large.9dfc46fd60aa92768b02d39371d5aac04b892ff8.png",
+                "price": 0.96,
+                "ticketsEnd": 100000,
+                "ticketsStart": 70001,
+                "chance": "30%"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "slug": "Matrix",
+        "name": "Matrix",
+        "image": "https://images.crusade.gg/Matrix.png",
+        "price": 1.59,
+        "items": [
+            {
+                "name": "Twin Turbo (FT)",
+                "type": "Dual Berettas",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_cu_dual_elites_rally_light_large.5b3cf9c54a4e7927724560a210955a77887ecb2e.png",
+                "price": 2.74,
+                "ticketsEnd": 25000,
+                "ticketsStart": 0,
+                "chance": "25%"
+            },
+            {
+                "name": "Dezastre (WW)",
+                "type": "Dual Berettas",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_gs_dual_elites_dezastre_light_large.9b7aa9accd1e31a202b0f2ab66d0cf8d3039ee7d.png",
+                "price": 2.05,
+                "ticketsEnd": 60000,
+                "ticketsStart": 25001,
+                "chance": "35%"
+            },
+            {
+                "name": "Cobalt Quartz (FN)",
+                "type": "Dual Berettas",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_am_crystallized_blue_light_large.5756d02f9908e1c4d70e6f1d9dae53b3731fc0fd.png",
+                "price": 0.23,
+                "ticketsEnd": 70000,
+                "ticketsStart": 60001,
+                "chance": "10%"
+            },
+            {
+                "name": "Elite 1.6 (BS)",
+                "type": "Dual Berettas",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_elite_gs_dual_elites_classic_light_large.a899ad9f2e1bb8522fdeb022c99c64c2456826d1.png",
+                "price": 0.09,
+                "ticketsEnd": 100000,
+                "ticketsStart": 70001,
+                "chance": "30%"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "slug": "Mystic",
+        "name": "Mystic",
+        "image": "https://images.crusade.gg/Mystic.png",
+        "price": 17.58,
+        "items": [
+            {
+                "name": "Printstream (FT)",
+                "type": "M4A1-S",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_printstream_light_large.99e340c2eed00b54eef5320fd63e009fcede6cae.png",
+                "price": 127.84,
+                "ticketsEnd": 2000,
+                "ticketsStart": 0,
+                "chance": "2%"
+            },
+            {
+                "name": "Printstream (FN)",
+                "type": "USP-S",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_cu_usp_printstream_light_large.9f5bcd4f94db3d965b3b2e7c3aace470e9466380.png",
+                "price": 86.48,
+                "ticketsEnd": 4000,
+                "ticketsStart": 2001,
+                "chance": "2%"
+            },
+            {
+                "name": "Printstream (FN)",
+                "type": "Desert Eagle",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_deagle_cu_deag_printstream_light_large.b468e56607da39fb2c88e493456290fd5db174c8.png",
+                "price": 72.23,
+                "ticketsEnd": 6000,
+                "ticketsStart": 4001,
+                "chance": "2%"
+            },
+            {
+                "name": "Whiteout (MW)",
+                "type": "USP-S",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_usp_silencer_so_whiteout_riptide_light_large.87d3b82c83ef28ff06955915907d062376be31ac.png",
+                "price": 32.26,
+                "ticketsEnd": 23000,
+                "ticketsStart": 6001,
+                "chance": "17%"
+            },
+            {
+                "name": "Whiteout (FT)",
+                "type": "P250",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_so_whiteout_light_large.ffd6e614b63d3af24a04a9f7710b55210a7d0296.png",
+                "price": 21.62,
+                "ticketsEnd": 40000,
+                "ticketsStart": 23001,
+                "chance": "17%"
+            },
+            {
+                "name": "Whiteout (FT)",
+                "type": "MP7",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp7_so_whiteout_light_large.1f27273c189c19b42567bdd44ffc3e5be70ea3a4.png",
+                "price": 8.31,
+                "ticketsEnd": 50000,
+                "ticketsStart": 40001,
+                "chance": "10%"
+            },
+            {
+                "name": "Whitefish (FN)",
+                "type": "MAC-10",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_gs_mac10_fish_bait_light_large.31a855282029b915748b21c11521b5f111b05e67.png",
+                "price": 0.52,
+                "ticketsEnd": 100000,
+                "ticketsStart": 50001,
+                "chance": "50%"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "slug": "Riches",
+        "name": "Riches",
+        "image": "https://images.crusade.gg/Riches.png",
+        "price": 1.45,
+        "items": [
+            {
+                "name": "Lucky 13 (Foil)",
+                "type": "Sticker",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulROWE3eQ-W_04DHW1RmMQFSuIWjJA5snafNJTxD7tqwl4KJx_WjZOiDxW1VvJZz2b6QrNqsiQ3m-kZuZzv2J9CLMlhpMoqL7dE/260fx260f",
+                "price": 11.83,
+                "ticketsEnd": 2500,
+                "ticketsStart": 0,
+                "chance": "2,5%"
+            },
+            {
+                "name": "Health (Gold)",
+                "type": "Sticker",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRcQFXICOyo1sPHW2JyKg1b-LigeFc11_CZIW9Aut23zNHSx_aia-LVwzkIsJ13j7DDpt-i2gO2-hFyIzek8F-gWpc/260fx260f",
+                "price": 10.71,
+                "ticketsEnd": 5000,
+                "ticketsStart": 2501,
+                "chance": "2,5%"
+            },
+            {
+                "name": "Longevity (Foil)",
+                "type": "Sticker",
+                "color": "pink",
+                "stattrack": "no",
+                "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulRUQEDFSu2j1tvWbF51NRdCur-ae1Uv3_zGdjhU5civq4aEnvu6Ne-BxGpQ65cgi73Cod-t2law80JpZD2nIdSWegQ2MlDS_FDvw-rm0Ij84soBvRpVFw/260fx260f",
+                "price": 3.28,
+                "ticketsEnd": 11000,
+                "ticketsStart": 5001,
+                "chance": "6%"
+            },
+            {
+                "name": "Hidden Hero (Foil)",
+                "type": "Sticker",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReQ0HdUuqkw9aBAw8magpeuLCkFBRt3PjNYgJE49W6q4yKhfDxfejTxD5UvcR02eiZ89unjlbi_0ZoYjumIILDcFVqaAuB-gfvkOjsg5Ci_MOeSxUCBRY/260fx260f",
+                "price": 2.99,
+                "ticketsEnd": 20000,
+                "ticketsStart": 11001,
+                "chance": "9%"
+            },
+            {
+                "name": "Big Clucks (Foil)",
+                "type": "Sticker",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReREXTTOGj6MzSQ05hKQEYtLOiKAt10PjbTjtN5dD4xtDYxfGiZO2DwmoHvZUnj7GZ8Y2gjFLj-EVoajyiItPBcFc7Y17Y-E_-n7m5WsXZqQ/260fx260f",
+                "price": 2.74,
+                "ticketsEnd": 30000,
+                "ticketsStart": 20001,
+                "chance": "10%"
+            },
+            {
+                "name": "Arms Race",
+                "type": "Sticker",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXQ9QVcJY8gulReX0vfFrTi1t3eQGJmJAdSiaqkOwJynfDLI29DtN7il9PbxaehMuzVlWlXvZRw2rqXot2kjlblqEA6NWiiJICLMlhp-M5Qo0c/260fx260f",
+                "price": 0.02,
+                "ticketsEnd": 100000,
+                "ticketsStart": 30001,
+                "chance": "70%"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "slug": "Trove",
+        "name": "Trove",
+        "image": "https://images.crusade.gg/Trove.png",
+        "price": 22.02,
+        "items": [
+            {
+                "name": "Neon Rider (FN)",
+                "type": "MAC-10",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_neonrider_light_large.4ba82cf2ba2d9fdc694d707b563421bbcc20b174.png",
+                "price": 8.48,
+                "ticketsEnd": 16000,
+                "ticketsStart": 0,
+                "chance": "16%"
+            },
+            {
+                "name": "Arctic Wolf (MW)",
+                "type": "UMP-45",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump45_white_fang_light_large.f63a10d5ee18e3045adfdcf963b9067b3b0a6b48.png",
+                "price": 0.48,
+                "ticketsEnd": 33000,
+                "ticketsStart": 16001,
+                "chance": "17%"
+            },
+            {
+                "name": "Blood in the Water (FT)",
+                "type": "SSG 08",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ssg08_cu_shark_light_large.00812c20a896847013b0a2913a166f6ba220a258.png",
+                "price": 38.17,
+                "ticketsEnd": 46000,
+                "ticketsStart": 33001,
+                "chance": "13%"
+            },
+            {
+                "name": "Ocean Foam (MW)",
+                "type": "P2000",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_am_ossify_blue_p2000_bravo_light_large.91f225635f7e4a986b51e09bba106ca6a4bf7dbb.png",
+                "price": 135.44,
+                "ticketsEnd": 55000,
+                "ticketsStart": 46001,
+                "chance": "9%"
+            },
+            {
+                "name": "Red Astor (FN)",
+                "type": "CZ75-Auto",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_cz75a_gs_cz75a_redastor_light_large.e00e688986c50877a103fe66d70fdf1fc13bbe8b.png",
+                "price": 1.16,
+                "ticketsEnd": 70000,
+                "ticketsStart": 55001,
+                "chance": "15%"
+            },
+            {
+                "name": "Flux (FT)",
+                "type": "G3SG1",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_g3sg1_gs_g3sg1_flux_purple_light_large.6ed40e104625c9607e7df5ee60373a19d3dae634.png",
+                "price": 5.48,
+                "ticketsEnd": 85000,
+                "ticketsStart": 70001,
+                "chance": "15%"
+            },
+            {
+                "name": "Isaac (MW)",
+                "type": "Tec-9",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_cu_tec9_asiimov_light_large.9a4fb9bbf6f01209b8fd3effeda1eecfc1e5a9a3.png",
+                "price": 2.79,
+                "ticketsEnd": 100000,
+                "ticketsStart": 85001,
+                "chance": "15%"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "slug": "Vortex",
+        "name": "Vortex",
+        "image": "https://images.crusade.gg/Vortex.png",
+        "price": 4.19,
+        "items": [
+            {
+                "name": "Safari Mesh (FT)",
+                "type": "AWP",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_sp_mesh_tan_light_large.3608cbeb9bb163bfd2becb4ebcce2576b9ca78d9.png",
+                "price": 0.03,
+                "ticketsEnd": 8000,
+                "ticketsStart": 0,
+                "chance": "8%"
+            },
+            {
+                "name": "Basilisk (MW)",
+                "type": "M4A1-S",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_aq_m4a1s_basilisk_light_large.18370d6557500376e137c7f6b07c7ed46c9dccf2.png",
+                "price": 5.92,
+                "ticketsEnd": 18000,
+                "ticketsStart": 8001,
+                "chance": "10%"
+            },
+            {
+                "name": "Cartel (FT)",
+                "type": "AK-47",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_aq_ak47_cartel_light_large.2e7be9f4c7bda304f2a7c374260d95affca93f0b.png",
+                "price": 6.91,
+                "ticketsEnd": 28000,
+                "ticketsStart": 18001,
+                "chance": "10%"
+            },
+            {
+                "name": "Delusion (FN)",
+                "type": "UMP-45",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_sp_ump45_d-visions_light_large.33ae7e9e8bf24ee97f4f3d3ee113e51782a756fa.png",
+                "price": 1.37,
+                "ticketsEnd": 36000,
+                "ticketsStart": 28001,
+                "chance": "8%"
+            },
+            {
+                "name": "Granite Marbleized (MW)",
+                "type": "P2000",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_hy_granite_light_large.30d6a68c522ae5dd0cf7a67e07eccb66cf50b04c.png",
+                "price": 0.05,
+                "ticketsEnd": 44000,
+                "ticketsStart": 36001,
+                "chance": "8%"
+            },
+            {
+                "name": "Candy Apple (FT)",
+                "type": "Nova",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_so_red_light_large.f19886d0d01e730fc1e050416a6642488526a94c.png",
+                "price": 0.04,
+                "ticketsEnd": 52000,
+                "ticketsStart": 44001,
+                "chance": "8%"
+            },
+            {
+                "name": "Desert-Strike (MW)",
+                "type": "M4A4",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_titanstorm_light_large.a161ff6ea23af2d9bbdc0a757f5163fa1ad87a30.png",
+                "price": 4.02,
+                "ticketsEnd": 62000,
+                "ticketsStart": 52001,
+                "chance": "10%"
+            },
+            {
+                "name": "Neon Rider (FN)",
+                "type": "MAC-10",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_neonrider_light_large.4ba82cf2ba2d9fdc694d707b563421bbcc20b174.png",
+                "price": 8.48,
+                "ticketsEnd": 82000,
+                "ticketsStart": 62001,
+                "chance": "20%"
+            },
+            {
+                "name": "Isaac (FT)",
+                "type": "Tec-9",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_cu_tec9_asiimov_light_large.9a4fb9bbf6f01209b8fd3effeda1eecfc1e5a9a3.png",
+                "price": 2.25,
+                "ticketsEnd": 92000,
+                "ticketsStart": 82001,
+                "chance": "10%"
+            },
+            {
+                "name": "Franklin (MW)",
+                "type": "P250",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_money_light_large.a8632edd5846b8c9de09c711ada47f7decc739b7.png",
+                "price": 1.03,
+                "ticketsEnd": 100000,
+                "ticketsStart": 92001,
+                "chance": "8%"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "slug": "Prime",
+        "name": "Prime",
+        "image": "https://images.crusade.gg/Prime-Picks.png",
+        "price": 8.43,
+        "items": [
+            {
+                "name": "Graphite (FN)",
+                "type": "AWP",
+                "color": "red",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_am_crumple_bravo_light_large.5f59de227d280f3c3b39fae7e49ac143338ca5b2.png",
+                "price": 125.13,
+                "ticketsEnd": 2000,
+                "ticketsStart": 0,
+                "chance": "2%"
+            },
+            {
+                "name": "Hyper Beast (FT)",
+                "type": "M4A1-S",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1_hyper_beast_light_large.31850937661935a062d5f6faf5a1f02fdb90b861.png",
+                "price": 17.66,
+                "ticketsEnd": 8000,
+                "ticketsStart": 2001,
+                "chance": "6%"
+            },
+            {
+                "name": "Frontside Misty (MW)",
+                "type": "AK-47",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak47_winter_sport_light_large.785a08aecd996dcffc6f38373fdc73697e601a6a.png",
+                "price": 18.56,
+                "ticketsEnd": 14000,
+                "ticketsStart": 8001,
+                "chance": "6%"
+            },
+            {
+                "name": "Supernova (FN)",
+                "type": "P250",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_bittersweet_light_large.83cd48968d79412e0cf2233b8e18602ff2790ad4.png",
+                "price": 1.12,
+                "ticketsEnd": 32000,
+                "ticketsStart": 14001,
+                "chance": "18%"
+            },
+            {
+                "name": "Primal Saber (FT)",
+                "type": "UMP-45",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump45_primalsaber_light_large.67bef91a43734d654516f65c4288711b257d2049.png",
+                "price": 1.72,
+                "ticketsEnd": 50000,
+                "ticketsStart": 32001,
+                "chance": "18%"
+            },
+            {
+                "name": "Water Elemental (MW)",
+                "type": "Glock-18",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_glock-liquescent_light_large.151e954ed4aef28ccc55d0ca4b43a7d9644f36ac.png",
+                "price": 5.34,
+                "ticketsEnd": 60000,
+                "ticketsStart": 50001,
+                "chance": "10%"
+            },
+            {
+                "name": "Hyper Beast (FT)",
+                "type": "Nova",
+                "color": "purple",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_nova_cu_nova_hyperbeast_light_large.ec64e1aa22dc78fa692a2269a99669842b91cc6f.png",
+                "price": 11.92,
+                "ticketsEnd": 68000,
+                "ticketsStart": 60001,
+                "chance": "8%"
+            },
+            {
+                "name": "Bloodsport (MW)",
+                "type": "SCAR-20",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_gs_scar20_bloodsport_light_large.dd99feccb31d2ec296bcd620abd885e6fe50d44e.png",
+                "price": 3.16,
+                "ticketsEnd": 78000,
+                "ticketsStart": 68001,
+                "chance": "10%"
+            },
+            {
+                "name": "Roll Cage (FT)",
+                "type": "FAMAS",
+                "color": "white",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_famas_gs_famas_rally_light_large.538baee44eb772de95029e4267ea9c41101bbc94.png",
+                "price": 2.03,
+                "ticketsEnd": 90000,
+                "ticketsStart": 78001,
+                "chance": "12%"
+            },
+            {
+                "name": "Fuel Injector (MW)",
+                "type": "Tec-9",
+                "color": "blue",
+                "stattrack": "no",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_gs_tec9_supercharged_light_large.e3ebc20f10eae02790fe95703b6099acca1d1809.png",
+                "price": 4.27,
+                "ticketsEnd": 100000,
+                "ticketsStart": 90001,
+                "chance": "10%"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "slug": "Gloves",
+        "name": "Gloves",
+        "image": "https://images.crusade.gg/10_gloves.png",
+        "price": "12.50",
+        "items": [
+            {
+                "name": "King Snake (FT)",
+                "type": "Driver Gloves",
+                "color": "gold",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_snakeskin_white_light_large.f6a54c7a3cf91ecbe0a712bb2126bfe77f86825e.png",
+                "price": 326.34,
+                "ticketsEnd": 100000,
+                "ticketsStart": 99990,
+                "chance": "0.01%"
+            },
+            {
+                "name": "Crimson Weave (FT)",
+                "type": "Driver Gloves",
+                "color": "gold",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_red_light_large.137455fd6486c53fef15a523f86e2928743de97e.png",
+                "price": 249.58,
+                "ticketsEnd": 99989,
+                "ticketsStart": 99970,
+                "chance": "0.02%"
+            },
+            {
+                "name": "Mogul (FT)",
+                "type": "Specialist Gloves",
+                "color": "red",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/specialist_gloves_specialist_winterhex_light_large.2b5d5ec0b5388beef874b932a8f9c053360ae7dc.png",
+                "price": 159.89,
+                "ticketsEnd": 99969,
+                "ticketsStart": 99950,
+                "chance": "0.02%"
+            },
+            {
+                "name": "Eclipse (FT)",
+                "type": "Moto Gloves",
+                "color": "red",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/motorcycle_gloves_motorcycle_basic_black_light_large.9a849bc145404258c8961449980d893ba9eff27e.png",
+                "price": 126.52,
+                "ticketsEnd": 99949,
+                "ticketsStart": 98950,
+                "chance": "1%"
+            },
+            {
+                "name": "Bronze Morph (FT)",
+                "type": "Sport Gloves",
+                "color": "red",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/sporty_gloves_sporty_poison_frog_red_green_light_large.12893b922fb8f2dc1d1eecf01bf628642874e937.png",
+                "price": 122.35,
+                "ticketsEnd": 98949,
+                "ticketsStart": 98900,
+                "chance": "0.05%"
+            },
+            {
+                "name": "Charred (FT)",
+                "type": "Bloodhound Gloves",
+                "color": "red",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/studded_bloodhound_gloves_bloodhound_black_silver_light_large.36a1f3b18c240487ae6aba735429754c706aca70.png",
+                "price": 91.15,
+                "ticketsEnd": 98899,
+                "ticketsStart": 98100,
+                "chance": "0.8%"
+            },
+            {
+                "name": "POW! (BS)",
+                "type": "Moto Gloves",
+                "color": "red",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/motorcycle_gloves_motorcycle_choco_boom_light_large.37abd7be1296fa17815f7b41a7d063e45b343cab.png",
+                "price": 85.51,
+                "ticketsEnd": 98099,
+                "ticketsStart": 98050,
+                "chance": "0.05%"
+            },
+            {
+                "name": "Case Hardened (FT)",
+                "type": "Hydra Gloves",
+                "color": "red",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/studded_hydra_gloves_bloodhound_hydra_case_hardened_light_large.611be49c3a2f37057a7740c8ad74cc818f688b3d.png",
+                "price": 88.98,
+                "ticketsEnd": 98049,
+                "ticketsStart": 94460,
+                "chance": "3.59%"
+            },
+            {
+                "name": "Convoy (FT)",
+                "type": "Driver Gloves",
+                "color": "red",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/slick_gloves_slick_military_light_large.8da6c198b3bfb8a70f63bbd99a02ce8fc09c9a95.png",
+                "price": 60.97,
+                "ticketsEnd": 94459,
+                "ticketsStart": 90000,
+                "chance": "4.46%"
+            },
+            {
+                "name": "Urban Dashed (MW)",
+                "type": "PP-Bizon",
+                "color": "white",
+                "stattrack": "No",
+                "image": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_bizon_sp_tape_short_urban_light_large.141f3b1f24bc6c964a78ca58b38c01ad773fbc12.png",
+                "price": 0.01,
+                "ticketsEnd": 89999,
+                "ticketsStart": 0,
+                "chance": "90%"
+            }
+        ]
+    }
+]
