@@ -154,7 +154,7 @@ const Navbar = ({ mobileChat, setMobile, mobileNav, setMobileNav, isAuthenticate
             </span>
           </Button>
         </Box>
-        <Link exact to="/home" style={{ outline: "none", }}>
+        <Link exact to="/" style={{ outline: "none", }}>
         <div className={classes.logoimage} ><img className={classes.LogoClass} src={logo} alt="logo" style={{ width: "105px", marginTop: "13px", }} /></div>
         </Link>
         <Box className={classes.mobileNav2}>

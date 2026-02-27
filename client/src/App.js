@@ -2,8 +2,7 @@ import React, { useState, useEffect } from "react";
 import {
   BrowserRouter as Router,
   Switch,
-  Route,
-  Redirect,
+  Route
 } from "react-router-dom";
 import CssBaseline from "@material-ui/core/CssBaseline";
 import { getSiteSchema } from "./services/api.service";
@@ -34,10 +33,9 @@ import CoinflipHistory from "./views/CoinflipHistory";
 import Profile from "./views/Profile";
 import Roulette from "./views/Roulette";
 import Mines from "./views/Mines";
-import Wheel from "./views/Wheel";
-import Crash from "./views/Crash";
 import Jackpot from "./views/Jackpot";
 import Home from "./views/Home";
+import Landing from "./views/Landing";
 import Race from "./views/Race";
 import Login from "./views/Login";
 import Terms from "./views/Terms";
@@ -322,7 +320,7 @@ const App = () => {
               <Box height="5.6rem" />
 
               <Switch>
-                <Redirect exact from="/" to="roulette" />
+                <Route exact path="/" component={Landing} />
 
                 <Route
                   exact
