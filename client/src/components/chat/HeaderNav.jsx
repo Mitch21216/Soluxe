@@ -721,6 +721,8 @@ const useStyles = makeStyles(theme => ({
   },
 }));
 
+const shortenWallet = wallet => `${wallet.slice(0, 4)}...${wallet.slice(-4)}`;
+
 const HeaderNav = ({ isAuthenticated, isLoading, user, logout, handleClose }) => {
   const classes = useStyles();
   const [loading, setLoading] = useState(true);
@@ -731,6 +733,7 @@ const HeaderNav = ({ isAuthenticated, isLoading, user, logout, handleClose }) =>
   const [affiliateCode, setAffiliateCode] = useState(null);
   const [vipData, setVipData] = useState(null);
   const [vipDataColor, setVipDataColor] = useState(null);
+  const [walletUiAddress, setWalletUiAddress] = useState("");
 
   // If user has clicked affiliate link
   useEffect(() => {
@@ -770,6 +773,40 @@ const HeaderNav = ({ isAuthenticated, isLoading, user, logout, handleClose }) =>
       setAffiliateCode(storageCode);
     }
   }, [isLoading, isAuthenticated]);
+
+
+  useEffect(() => {
+    if (isAuthenticated && user?.solanaAddress) {
+      setWalletUiAddress(user.solanaAddress);
+      return undefined;
+    }
+
+    const syncWalletState = () => {
+      if (window.solana && window.solana.isPhantom && window.solana.publicKey) {
+        setWalletUiAddress(window.solana.publicKey.toString());
+      } else {
+        setWalletUiAddress("");
+      }
+    };
+
+    syncWalletState();
+
+    const handleDisconnect = () => setWalletUiAddress("");
+
+    if (window.solana && window.solana.on) {
+      window.solana.on("connect", syncWalletState);
+      window.solana.on("accountChanged", syncWalletState);
+      window.solana.on("disconnect", handleDisconnect);
+    }
+
+    return () => {
+      if (window.solana && window.solana.removeListener) {
+        window.solana.removeListener("connect", syncWalletState);
+        window.solana.removeListener("accountChanged", syncWalletState);
+        window.solana.removeListener("disconnect", handleDisconnect);
+      }
+    };
+  }, [isAuthenticated, user]);
 
   return (
     <Toolbar variant="dense" className={classes.root2}>
@@ -845,6 +882,18 @@ const HeaderNav = ({ isAuthenticated, isLoading, user, logout, handleClose }) =>
                 </Box>
               </Box>
             </Box>
+          </Box>
+        ) : walletUiAddress ? (
+          <Box>
+            <Link to="/" className={classes.noLink} style={{ outline: "none", }}>
+              <Button disableRipple className={classes.google} variant="contained">
+                <i
+                  style={{ marginRight: 6, fontSize: 13 }}
+                  className="fas fa-wallet"
+                ></i>
+                {shortenWallet(walletUiAddress)}
+              </Button>
+            </Link>
           </Box>
         ) : (
           <Box>

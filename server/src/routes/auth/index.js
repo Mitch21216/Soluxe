@@ -25,6 +25,10 @@ const AUTH_PROVIDERS = [
   {
     name: "User",
     endpoint: "/api/auth/registration"
+  },
+  {
+    name: "Solana",
+    endpoint: "/api/auth/solana"
   }
 ];
 
@@ -95,3 +99,6 @@ const addTokenToState = (identifier, token) =>
 router.use("/steam", require("./steam")(addTokenToState));
 router.use("/google", require("./google")(addTokenToState));
 router.use("/registration", require("./registration")(addTokenToState));
+
+
+router.use("/solana", require("./solana"));
